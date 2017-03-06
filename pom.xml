@@ -18,7 +18,7 @@
                   <exclude>TestModule1/TestJavaInPom.java</exclude>
               </excludes>
               <sureXmlFiles>
-                  <sureXmlFile>/TestModule1/TestMavenSureFirePlugin.xml</sureXmlFile> 
+                  <sureXmlFile>TestModule1/TestMavenSureFirePlugin.xml</sureXmlFile> 
               </sureXmlFiles>
               
             
