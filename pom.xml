@@ -14,7 +14,6 @@
             <version>2.10</version>
             <configuration>
               <excludes>
-                  <exclude>TestModule3/TestFireFlyAtuomation.java</exclude>            
                   <exclude>TestModule2/TestMutipleThreads.java</exclude>
                   <exclude>TestModule1/TestJavaInPom.java</exclude>
               </excludes>
